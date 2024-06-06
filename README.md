@@ -15,7 +15,7 @@ This Python script allows you to encrypt and decrypt messages using the Caesar C
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/amitraj29/PRODIGY_CS_01.git
-   cd MACChangerTool
+   cd PRODIGY_CS_01
    ```
 
 2. **Run the script:**
